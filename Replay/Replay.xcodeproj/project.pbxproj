@@ -204,7 +204,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = VMware;
+				ORGANIZATIONNAME = Omnissa;
 				TargetAttributes = {
 					44A51DEA1F434820008A1C22 = {
 						CreatedOnToolsVersion = 8.3.3;

@@ -3,7 +3,7 @@
 //  Replay
 //
 //  Created by Rajiv Singh and Naveen Pitchandi on 8/24/17.
-//  Copyright 2017 VMware, Inc. All Rights Reserved.
+//  Copyright 2017 Omnissa, LLC. All Rights Reserved.
 
 //This product is licensed to you under the BSD-2 license (the "License").  You may not use this product except in compliance with the BSD-2 License.
 
