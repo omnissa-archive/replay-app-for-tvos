@@ -61,7 +61,7 @@ Essentially, the deployment steps would be
 
 ### Application Management
 
-- Enterprise developed applications can now be managed for tvOS and be downloaded and installed automatically on enrollment. Replay application can hence be effectively managed using VMware AirWatch to transform a display to true Digital Signage
+- Enterprise developed applications can now be managed for tvOS and be downloaded and installed automatically on enrollment. Replay application can hence be effectively managed using Omnissa AirWatch to transform a display to true Digital Signage
 
 ### Configuration Policies
 
